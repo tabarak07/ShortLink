@@ -7,7 +7,8 @@ Intern Id- CC96673
 Description -
 An app that allows users to shorten long URLs into concise and shareable
 links. Implement features like custom short URLs etc using nextjs 
-
+Output- 
+![Image](https://github.com/user-attachments/assets/7c4cf2a1-8385-4aca-b007-dcfca15ccc00)
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
