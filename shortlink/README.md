@@ -1,3 +1,13 @@
+Project ID - #CC9905
+Internship Domain - Web Development Intern
+Project Level - Intermediate Level 
+Assigned By- CodeClause Internship 
+Intern Id- CC96673
+
+Description -
+An app that allows users to shorten long URLs into concise and shareable
+links. Implement features like custom short URLs etc using nextjs 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
